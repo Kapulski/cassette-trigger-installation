@@ -15,3 +15,6 @@ To organize the code, wiring, diagrams, and notes for the cassette-trigger insta
 
 ## Current Status
 Initial setup
+## System Overview
+
+![System Diagram](hardware/SYSTEM_OVERVIEW.png)
